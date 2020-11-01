@@ -12,7 +12,9 @@ html {
   border-bottom: 1px solid transparent; }
 
 .custom-navbar {
-  padding: 25px 0; }
+  padding: 25px 0;
+    text-align: center;
+}
 
 .custom-navbar li.nav-item:hover, .custom-navbar li.nav-item:active {
   border-bottom: 1px solid white;
